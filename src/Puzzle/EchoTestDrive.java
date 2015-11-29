@@ -1,5 +1,8 @@
 package Puzzle;
-
+/**
+ * In project Echo:
+ * Packaged by D.Gumeniuk in Puzzle on 29.11.2015
+ */
 public class EchoTestDrive {
 
     public static void main(String[] args) {
